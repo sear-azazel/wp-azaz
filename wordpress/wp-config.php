@@ -32,7 +32,7 @@ define('DB_NAME', 'ad_80fb77b934d09ff');
 define('DB_USER', 'b90c2037dfcd5d');
 
 /** MySQL データベースのパスワード */
-define('DB_PASSWORD', 'e3ce6e00');
+define('DB_PASSWORD', 'd72859a3');
 
 /** MySQL のホスト名 */
 define('DB_HOST', 'us-cdbr-iron-east-04.cleardb.net');
